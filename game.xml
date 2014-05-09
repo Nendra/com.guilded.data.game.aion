@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu/XSD/game.xsd">	
+	<import>
+		<game name="aion">
+			<vendor><![CDATA[NCSoft & Publisher: Gameforge]]></vendor>
+			<url><![CDATA[http://www.aionfreetoplay.de]]></url>
+			
+			<maximumlevel>65</maximumlevel>
+			<maximumclasses>1</maximumclasses>
+			<maximumraces>1</maximumraces>
+			
+			<smallicon>aionS.png</smallicon>
+			<mediumicon>aionM.png</mediumicon>
+			<largeicon>aionL.png</largeicon>
+		</game>
+	</import>
+</data>

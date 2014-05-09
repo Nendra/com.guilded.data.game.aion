@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu/XSD/game-race.xsd">
+	<import>
+		<race name="elyos">
+			<game>aion</game>
+			
+			<smallicon>aion/elyosS.png</smallicon>
+			<mediumicon>aion/elyosM.png</mediumicon>
+			<largeicon>aion/elyosL.png</largeicon>
+		</race>
+		<race name="asmodian">
+			<game>aion</game>
+			
+			<smallicon>aion/asmodianS.png</smallicon>
+			<mediumicon>aion/asmodianM.png</mediumicon>
+			<largeicon>aion/asmodianL.png</largeicon>
+		</race>
+	</import>
+</data>

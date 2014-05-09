@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu/XSD/game-role.xsd">	
+	<import>
+		<role name="tank">
+			<game>aion</game>
+
+			<smallicon>aion/tankS.png</smallicon>
+			<mediumicon>aion/tankM.png</mediumicon>
+			<largeicon>aion/tankL.png</largeicon>
+		</role>
+        <role name="melee">
+			<game>aion</game>
+
+			<smallicon>aion/meleeS.png</smallicon>
+			<mediumicon>aion/meleeM.png</mediumicon>
+			<largeicon>aion/meleeL.png</largeicon>
+		</role>
+        <role name="heal">
+			<game>aion</game>
+
+			<smallicon>aion/healS.png</smallicon>
+			<mediumicon>aion/healM.png</mediumicon>
+			<largeicon>aion/healL.png</largeicon>
+		</role>
+        <role name="range">
+			<game>aion</game>
+
+			<smallicon>aion/rangeS.png</smallicon>
+			<mediumicon>aion/rangeM.png</mediumicon>
+			<largeicon>aion/rangeL.png</largeicon>
+		</role>
+		<role name="support">
+			<game>aion</game>
+			<smallicon>aion/supportS.png</smallicon>
+			<mediumicon>aion/supportM.png</mediumicon>
+			<largeicon>aion/supportL.png</largeicon>
+		  </role>		
+	</import>
+</data>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language languagecode="en" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd">
+    <category name="wcf.game">
+        <item name="wcf.game.aion"><![CDATA[AionEU 4.5: Steel Cavalry]]></item>
+        <item name="wcf.game.aion.description"><![CDATA[AION® is a registered trademark of NCSOFT Corporation. Copyright © NCSOFT Corporation. Gameforge 4D GmbH was granted by NCSOFT Corporation the right to publish, distribute and transmit AION® in EUROPE. All rights reserved.]]></item>
+
+        <item name="wcf.game.aion.role.tank"><![CDATA[Tank]]></item>
+        <item name="wcf.game.aion.role.heal"><![CDATA[Heal]]></item>
+        <item name="wcf.game.aion.role.melee"><![CDATA[Melee]]></item>
+        <item name="wcf.game.aion.role.range"><![CDATA[Range]]></item>
+		<item name="wcf.game.aion.role.support"><![CDATA[Support]]></item>
+
+        <item name="wcf.game.aion.class.cleric"><![CDATA[Cleric]]></item>
+        <item name="wcf.game.aion.class.chanter"><![CDATA[Chanter]]></item>
+        <item name="wcf.game.aion.class.gladiator"><![CDATA[Gladiator]]></item>
+        <item name="wcf.game.aion.class.templar"><![CDATA[Templar]]></item>
+        <item name="wcf.game.aion.class.assassin"><![CDATA[Assassin]]></item>
+        <item name="wcf.game.aion.class.ranger"><![CDATA[Ranger]]></item>
+        <item name="wcf.game.aion.class.sorcerer"><![CDATA[Sorcerer]]></item>
+        <item name="wcf.game.aion.class.spiritmaster"><![CDATA[Spiritmaster]]></item>
+        <item name="wcf.game.aion.class.bard"><![CDATA[Bard]]></item>
+        <item name="wcf.game.aion.class.gunner"><![CDATA[Gunner]]></item>
+		<item name="wcf.game.aion.class.aethertech"><![CDATA[Aethertech]]></item>
+
+        <item name="wcf.game.aion.race.elyos"><![CDATA[Elysea]]></item>
+        <item name="wcf.game.aion.race.asmodian"><![CDATA[Asmodean]]></item>
+	</category>
+</language>

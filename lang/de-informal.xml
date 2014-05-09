@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language languagecode="de-informal" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd">
+    <category name="wcf.game">
+        <item name="wcf.game.aion"><![CDATA[AionEU 4.5: Steel Cavalry]]></item>
+        <item name="wcf.game.aion.description"><![CDATA[AION® ist eine eingetragene Marke der NCSOFT Corporation. © NCSOFT Corporation. Der Gameforge 4D GmbH wurde von der NCSOFT Corporation das Recht eingeräumt, AION® in Europa zu veröffentlichen, zu verbreiten und öffentlich wiederzugeben. Alle Rechte vorbehalten.]]></item>
+
+        <item name="wcf.game.aion.role.tank"><![CDATA[Schutz]]></item>
+        <item name="wcf.game.aion.role.heal"><![CDATA[Heilung]]></item>
+        <item name="wcf.game.aion.role.melee"><![CDATA[Nahkampf]]></item>
+        <item name="wcf.game.aion.role.range"><![CDATA[Fernkampf]]></item>
+		<item name="wcf.game.aion.role.support"><![CDATA[Support]]></item>
+
+        <item name="wcf.game.aion.class.cleric"><![CDATA[Kleriker]]></item>
+        <item name="wcf.game.aion.class.chanter"><![CDATA[Kantor]]></item>
+        <item name="wcf.game.aion.class.gladiator"><![CDATA[Gladiator]]></item>
+        <item name="wcf.game.aion.class.templar"><![CDATA[Templer]]></item>
+        <item name="wcf.game.aion.class.assassin"><![CDATA[Assassine]]></item>
+        <item name="wcf.game.aion.class.ranger"><![CDATA[Jäger]]></item>
+        <item name="wcf.game.aion.class.sorcerer"><![CDATA[Zauberer]]></item>
+        <item name="wcf.game.aion.class.spiritmaster"><![CDATA[Beschwörer]]></item>
+		<item name="wcf.game.aion.class.bard"><![CDATA[Barde]]></item>
+        <item name="wcf.game.aion.class.gunner"><![CDATA[Schütze]]></item>
+		<item name="wcf.game.aion.class.aethertech"><![CDATA[Äthertech]]></item>
+
+        <item name="wcf.game.aion.race.elyos"><![CDATA[Elysea]]></item>
+        <item name="wcf.game.aion.race.asmodian"><![CDATA[Asmodea]]></item>
+	</category>
+</language>

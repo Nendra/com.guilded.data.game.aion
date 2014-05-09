@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package name="com.guilded.data.game.aion" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/package.xsd">
+	<packageinformation>
+		<packagename><![CDATA[GamePackage "AionEU 4.5: Steel Cavalry"]]></packagename>
+		<packagedescription languagecode="de"><![CDATA[Das Spielpaket für "AionEU 4.5: Steel Cavalry".]]></packagedescription>
+		<packagedescription languagecode="de-informal"><![CDATA[Das Spielpaket für "AionEU 4.5: Steel Cavalry".]]></packagedescription>
+		<packagedescription languagecode="en"><![CDATA[Game extension for "AAionEU 4.5: Steel Cavalry"]]></packagedescription>
+		<version>1.0.5</version>
+		<date>2014-05-07</date>
+		<plugin>com.guilded.data.game</plugin>
+        <isunique>1</isunique>
+	</packageinformation>
+
+	<authorinformation>
+		<author><![CDATA[Nendra]]></author>
+		<authorurl><![CDATA[http://www.nezakan.de]]></authorurl>
+	</authorinformation>
+
+  	<requiredpackages>
+		<requiredpackage minversion="1.1.2">com.woltlab.wcf</requiredpackage>
+		<requiredpackage minversion="1.0.0">com.guilded.data.game</requiredpackage>
+		<requiredpackage minversion="1.0.0 RC 1">com.guilded.data.character</requiredpackage>
+	</requiredpackages>
+
+	<instructions type="install">
+		<game>game.xml</game>
+		<gamerole>gamerole.xml</gamerole>
+		<gamerace>gamerace.xml</gamerace>
+        <gameclass>gameclass.xml</gameclass>
+
+		<files>files.tar</files>
+		
+		<languages languagecode="de">lang/de.xml</languages>
+		<languages languagecode="de-informal">lang/de-informal.xml</languages>
+		<languages languagecode="en">lang/en.xml</languages>
+	</instructions>
+
+	<instructions type="update" fromversion="1.0.*">
+		<game>game.xml</game>
+		<gamerole>gamerole.xml</gamerole>
+		<gamerace>gamerace.xml</gamerace>
+        <gameclass>gameclass.xml</gameclass>
+
+		<files>files.tar</files>
+		
+		<languages languagecode="de">lang/de.xml</languages>
+		<languages languagecode="de-informal">lang/de-informal.xml</languages>
+		<languages languagecode="en">lang/en.xml</languages>
+	</instructions>
+</package>
+

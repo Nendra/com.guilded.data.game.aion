@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu/XSD/game-class.xsd">
+	<import>
+		<class name="cleric">
+			<game>aion</game>
+
+            <races><![CDATA[asmodian,elyos]]></races>
+            <roles><![CDATA[heal]]></roles>
+
+			<smallicon>aion/clericS.png</smallicon>
+			<mediumicon>aion/clericM.png</mediumicon>
+			<largeicon>aion/clericL.png</largeicon>
+		</class>
+
+		<class name="chanter">
+			<game>aion</game>
+
+            <races><![CDATA[asmodian,elyos]]></races>
+            <roles><![CDATA[heal]]></roles>
+
+			<smallicon>aion/chanterS.png</smallicon>
+			<mediumicon>aion/chanterM.png</mediumicon>
+			<largeicon>aion/chanterL.png</largeicon>
+		</class>
+
+		<class name="gladiator">
+			<game>aion</game>
+
+            <races><![CDATA[asmodian,elyos]]></races>
+            <roles><![CDATA[tank]]></roles>
+
+			<smallicon>aion/gladiatorS.png</smallicon>
+			<mediumicon>aion/gladiatorM.png</mediumicon>
+			<largeicon>aion/gladiatorL.png</largeicon>
+		</class>
+
+		<class name="templar">
+			<game>aion</game>
+
+            <races><![CDATA[asmodian,elyos]]></races>
+            <roles><![CDATA[heal]]></roles>
+
+			<smallicon>aion/templarS.png</smallicon>
+			<mediumicon>aion/templarM.png</mediumicon>
+			<largeicon>aion/templarL.png</largeicon>
+		</class>
+
+		<class name="sorcerer">
+			<game>aion</game>
+
+            <races><![CDATA[asmodian,elyos]]></races>
+            <roles><![CDATA[range]]></roles>
+
+			<smallicon>aion/sorcererS.png</smallicon>
+			<mediumicon>aion/sorcererM.png</mediumicon>
+			<largeicon>aion/sorcererL.png</largeicon>
+		</class>
+
+		<class name="spiritmaster">
+			<game>aion</game>
+
+            <races><![CDATA[asmodian,elyos]]></races>
+            <roles><![CDATA[range]]></roles>
+
+			<smallicon>aion/spiritmasterS.png</smallicon>
+			<mediumicon>aion/spiritmasterM.png</mediumicon>
+			<largeicon>aion/spiritmasterL.png</largeicon>
+		</class>
+
+		<class name="ranger">
+			<game>aion</game>
+
+            <races><![CDATA[asmodian,elyos]]></races>
+            <roles><![CDATA[range]]></roles>
+
+			<smallicon>aion/rangerS.png</smallicon>
+			<mediumicon>aion/rangerM.png</mediumicon>
+			<largeicon>aion/rangerL.png</largeicon>
+		</class>
+
+		<class name="assassin">
+			<game>aion</game>
+
+            <races><![CDATA[asmodian,elyos]]></races>
+            <roles><![CDATA[melee]]></roles>
+
+			<smallicon>aion/assassinS.png</smallicon>
+			<mediumicon>aion/assassinM.png</mediumicon>
+			<largeicon>aion/assassinL.png</largeicon>
+		</class>
+		
+		<class name="bard">
+			<game>aion</game>
+
+            <races><![CDATA[asmodian,elyos]]></races>
+            <roles><![CDATA[range]]></roles>
+
+			<smallicon>aion/bardS.png</smallicon>
+			<mediumicon>aion/bardM.png</mediumicon>
+			<largeicon>aion/bardL.png</largeicon>
+		</class>
+		
+		<class name="gunner">
+			<game>aion</game>
+
+            <races><![CDATA[asmodian,elyos]]></races>
+            <roles><![CDATA[range]]></roles>
+
+			<smallicon>aion/gunnerS.png</smallicon>
+			<mediumicon>aion/gunnerM.png</mediumicon>
+			<largeicon>aion/gunnerL.png</largeicon>
+		</class>
+		
+		<class name="aethertech">
+			<game>aion</game>
+
+            <races><![CDATA[asmodian,elyos]]></races>
+            <roles><![CDATA[range,melee]]></roles>
+
+			<smallicon>aion/aethertechS.png</smallicon>
+			<mediumicon>aion/aethertechM.png</mediumicon>
+			<largeicon>aion/aethertechL.png</largeicon>
+		</class>
+	</import>
+</data>
